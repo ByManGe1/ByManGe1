@@ -9,4 +9,7 @@
 - 🟩 Currently creating Bloc Edit IDE
 - 🫂 Open to collaborations
 
-- [Discord-Script-Unity3D](https://github.com/ByManGe1/Discord-Script-Unity3D)
+# Recent Repositories
+
+- [Loading-Basic](https://github.com/ByManGe1/Loading-Basic)
+- [Discord-Script-Unity3D](https://github.com/ByManGe1/Discord-Script-Unity3D)  
