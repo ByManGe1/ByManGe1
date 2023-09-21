@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there</h2>
 
-<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='30%'>  
+<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='35%'>  
 
 
 <h2 align="center">🌱 My Skills</h2>
