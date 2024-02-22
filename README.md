@@ -6,12 +6,12 @@
 <h2 align="center">🌱 My Skills</h2>
 
 <p align="center">
-<img alt="C++" src="https://img.shields.io/badge/-C++-00549D?style=flat-square&logo=cplusplus&logoColor=white"></a>
-<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width='35px'></a>
+<img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width='35px'></a>
+<img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width='35px'></a>
+<img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/0/00/HTML5_logo_black.svg" width='50px'></a>
+<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width='40px'></a>
+<img alt="Node.js" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width='35px'></a>
 </p>
 
 <h2 align="center">📚 Frameworks and Libraries</h2>
