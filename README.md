@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there</h2>
 
-<img align='right' src='https://i.pinimg.com/originals/9c/f4/f0/9cf4f0296dc287ce13c6997004dcf8eb.png' width='35%'>  
+<img align='right' src='https://i.pinimg.com/originals/9c/f4/f0/9cf4f0296dc287ce13c6997004dcf8eb.png' width='45%'>  
 
 
 <h2 align="center">🌱 Lenguajes</h2>
