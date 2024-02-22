@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there</h2>
 
-<img align='right' src='https://www.pngitem.com/pimgs/b/383-3831907_zero-two-transparent-zero-two-transparent-background-hd.png' width='35%'>  
+<img align='right' src='https://i.pinimg.com/originals/9c/f4/f0/9cf4f0296dc287ce13c6997004dcf8eb.png' width='35%'>  
 
 
 <h2 align="center">🌱 My Skills</h2>
