@@ -5,7 +5,7 @@
 
 * `My Name is`: **Miguel Ángel**,
 * `I'M`: **20 Years old**,
-* `Learning`: **SCALA**,
+* `Learning`: **SCALA, AWSCloud, Python, C++, C**,
 * `Favorite`: **Unity3D**
   
 }
