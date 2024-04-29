@@ -1,10 +1,16 @@
 <h2 align = "center">Hi there</h2>
 
+<img align='right' src='' width='20%'> 
+{
+
 * `My Name is`: **Miguel Ángel**,
 * `I'M`: **20 Years old**,
 * `Learning`: **SCALA**,
 * `Favorite`: **Unity3D**
-
+  
+}
+ <br><br>
+ 
 <h2 align = "center">My Skills</h2>
 
 <h4 align = "center"> Programming languages</h4>
