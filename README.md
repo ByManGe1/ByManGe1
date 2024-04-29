@@ -1,4 +1,5 @@
 <h2 align = "center">Hi there</h2>
+
 <img align='right' src='https://github.com/ByManGe1/ByManGe1/blob/main/image/Logotipo.jpeg' width='20%'>
 {
 
@@ -8,10 +9,9 @@
 * `Favorite`: **Unity3D**
   
 }
- <br><br>
+ <br><br><br><br>
+<hr/>
  
-<h2 align = "center">My Skills</h2>
-
 <h4 align = "center"> Programming languages</h4>
 
 <p align = "center">
