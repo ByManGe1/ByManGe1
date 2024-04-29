@@ -1,6 +1,5 @@
 <h2 align = "center">Hi there</h2>
-
-<img align='right' src='' width='20%'> 
+<img align='right' src='https://github.com/ByManGe1/ByManGe1/blob/main/image/Logotipo.jpeg' width='20%'>
 {
 
 * `My Name is`: **Miguel Ángel**,
