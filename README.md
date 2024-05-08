@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 Actualmente estoy estudiando **Sacala**
+ 🌱 Actualmente estoy estudiando **Scala**
  
 ⚡ Fun fact **Cleopatra fue tan cara que casi deja en bancarrota a 20th Century Fox**
 
