@@ -1,42 +1,49 @@
-<h2 align = "center">Hi there</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+Pequeños!+👋;+Soy+Miguel+Ángel!;" />
+</h1>
 
-<img align='right' src='https://github.com/ByManGe1/ByManGe1/blob/main/image/Logotipo.jpeg' width='20%'>
-{
+<h3 align="center">Un apasionado desarrollador de software de España 🇪🇸</h3>
 
-* `My Name is`: **Miguel Ángel**,
-* `I'M`: **20 Years old**,
-* `Learning`: **SCALA, Astro, Python, C++, C**,
-* `Favorite`: **Unity3D**
-  
-}
- <br><br><br><br>
-<hr/>
+<br/>
+
+<div align="center">
  
-<h4 align = "center"> Programming languages</h4>
+ 🌱 Actualmente estoy estudiando **Sacala**
+ 
+⚡ Fun fact **Cleopatra fue tan cara que casi deja en bancarrota a 20th Century Fox**
 
-<p align = "center">
-<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-<img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-</p>
+ </div>
+ 
+<div align="center"> 
+  <a href="https://twitter.com/XSManGe1">
+    <img src="https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=twitter&logoColor=blue" />
+  </a>
+  <a href="https://www.instagram.com/elmange25/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=E1306C" target="_blank" />
+  </a>
+</div>
 
-<h4 align = "center">📚 Frameworks and Libraries</h4>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java" /><br>
+</div>
 
-<p align = "center">
-<img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
-<img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-</p>
+<br/>
+<hr/>
 
-<h4 align = "center">⚙ Software</h4>
-<p align = "center">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=309 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ByManGe1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
+  <img width=407 src="https://github-readme-stats-salesp07.vercel.app/api?username=ByManGe1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
-<h4 align = "center">☁ Cloud and Providers</h4>
-<p align = "center">
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-</p>
+<br/><br/>
+
+<hr/>
+
+<br/>
