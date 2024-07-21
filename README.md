@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 Actualmente estoy estudiando **<img src="https://skillicons.dev/icons?i=react" />**
+ 🌱 Actualmente estoy Aprendiendo **<img src="https://skillicons.dev/icons?i=python" />**
  
 ⚡ Fun fact **Cleopatra fue tan cara que casi deja en bancarrota a 20th Century Fox**
 
