@@ -7,9 +7,7 @@
 <br/>
 
 <div align="center">
- 
- 🌱 Actualmente estoy Aprendiendo **<img src="https://skillicons.dev/icons?i=python" />**
- 
+  
 ⚡ Fun fact **Cleopatra fue tan cara que casi deja en bancarrota a 20th Century Fox**
 
  </div>
@@ -39,7 +37,6 @@
 <br>
 <div align=center>
   <img width=309 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ByManGe1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/>
-  <img width=407 src="https://github-readme-stats-salesp07.vercel.app/api?username=ByManGe1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
